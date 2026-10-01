@@ -30,6 +30,7 @@ All files are created and managed in **VS Code**, then pushed directly to GitHub
 ## 🧩 Demo File Pattern
 Each folder contains **one `.cpp` file** demonstrating its feature logic.  
 Example:
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -40,11 +41,12 @@ int main() {
     cout << "Battery Power: " << voltage * current << " W\n";
     return 0;
 }
+```
 
 ## 🚀 How to Run
 Compile and run any demo individually:
-```Bash
-g++ battery_features/battery_features.cpp -o battery_demo
-./battery_demo
 
+``` Bash
+    g++ battery_features/battery_features.cpp -o battery_demo
+    ./battery_demo
 ```
