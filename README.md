@@ -28,6 +28,7 @@ All files are created and managed in **VS Code**, then pushed directly to GitHub
 ---
 
 ## 🧩 Demo File Pattern
+
 Each folder contains **one `.cpp` file** demonstrating its feature logic.  
 Example:
 
@@ -44,7 +45,9 @@ int main() {
 ```
 
 ---
+ 
 ## 🚀 How to Run
+
 Compile and run any demo individually:
 
 ``` Bash
