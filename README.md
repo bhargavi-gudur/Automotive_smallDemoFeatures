@@ -45,7 +45,7 @@ int main() {
 ```
 
 ---
- 
+
 ## 🚀 How to Run
 
 Compile and run any demo individually:
